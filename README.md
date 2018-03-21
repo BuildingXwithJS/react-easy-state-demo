@@ -2,7 +2,7 @@
 
 > Free open-source tutorial on using React-Easy-State
 
-This repository contains code and related materials for [Introduction to React-Easy-State]() video.
+This repository contains code and related materials for [Introduction to React-Easy-State](https://www.youtube.com/watch?v=jleTmmDhxX8) video.
 
 ## Project description
 
